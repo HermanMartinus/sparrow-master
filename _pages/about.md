@@ -4,7 +4,7 @@ title: "About"
 permalink: /about
 subtitle: Evelyn Allen Harper - Traverse City, Michigan
 ---
-![Evelyn Harper](https://hermanmartinus.github.io/sparrow-master/assets/images/evharp.jpg)
+![Evelyn Harper](http://evelynallenharper.com/assets/images/evharp.jpg)
 
 My husband, Barry, and I moved to the Traverse City, Michigan area after we both retired. I left a career of selling real estate in Rochester, Michigan, and Barry retired from managing an insurance agency in Troy. We built a house by a beautiful lake called Pearl and settled into busy retirement, wondering how we ever managed to fit work into our schedules all those years. We have a big black dog that I found at the Humane Society. His name is Earl, and he is wonderful! We rescued a feral kitten from the coyotes that, after four years, still isn’t civilized. His name is Simon.
 
