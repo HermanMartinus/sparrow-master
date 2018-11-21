@@ -2,7 +2,7 @@
 layout: home
 comments: false
 ---
-![Wrath Of Winter](./assets/images/thewrathofwinter.jpg)
+![Wrath Of Winter](https://hermanmartinus.github.io/sparrow-master/assets/images/TheWrathOfWinter.jpg)
 
 Home for the characters who live within the pages of the Accidental Mystery Series is somewhere in the western part of the state of Michigan where cherries and wine abound. Retreating glaciers left potholes that became the many little lakes that dot the land that, in turn, snuggle up to a greater Lake Michigan.
 
