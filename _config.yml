@@ -6,7 +6,7 @@ title_separator          : "-"
 description              : "The accidental mystery series"
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
-url                      : "https://hermanmartinus.github.io/sparrow-master" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://evelynallenharper.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
